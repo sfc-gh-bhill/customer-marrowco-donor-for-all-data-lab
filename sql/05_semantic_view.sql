@@ -299,7 +299,7 @@ COMMENT = 'Semantic model for MarrowCo transplant outcome analytics — the sing
 AI_SQL_GENERATION '
 ## Context
 This data represents hematopoietic cell transplant (HCT) outcomes from the
-MarrowCo / National Transplant Registry registry. The "Donor for All" initiative aims to ensure
+National Transplant Registry. This registry aims to ensure
 every patient has access to a well-matched donor regardless of racial or
 ethnic background.
 
